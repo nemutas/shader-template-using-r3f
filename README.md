@@ -95,3 +95,16 @@ void main() {
 }
 `
 ```
+
+# Reference
+* [GLSL (OpenGL ES2.0)リファレンス](https://gist.github.com/gyohk/abf13dbcb5be750b3b021752b280ccd3)｜Japanese
+* [GLSL-Noise](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83)
+* [Three.js｜WebGLProgram](https://threejs.org/docs/#api/en/renderers/webgl/WebGLProgram)
+* [Three.js｜ShaderChunk](https://github.com/mrdoob/three.js/tree/master/src/renderers/shaders/ShaderChunk)
+* [Three.js｜Post-processing Passes](https://github.com/mrdoob/three.js/tree/dev/examples/jsm/postprocessing)
+* [Three.js｜Post-processing Shaders](https://github.com/mrdoob/three.js/tree/master/examples/jsm/shaders)
+* [Three.js｜Post-processing Samples](https://threejs.org/docs/index.html?q=effect#examples/en/postprocessing/EffectComposer)
+
+# Tools
+* [Graphtoy](https://graphtoy.com/)
+* [Playground](http://editor.thebookofshaders.com/)
